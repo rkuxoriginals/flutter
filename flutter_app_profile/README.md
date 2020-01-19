@@ -16,5 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-<img src="https://github.com/rkuxoriginals/flutter/blob/master/flutter_app_profile/Screenshot_1579441158.png" alt="flutter user profile design image" style="width:200px;" />
+<img src="https://github.com/rkuxoriginals/flutter/blob/master/flutter_app_profile/Screenshot_1579441158.png" alt="flutter user profile design image" style="width:400px;max-width:500px;" />
 see my youtube video <a href="https://www.youtube.com/watch?v=NJ9LkDjwY4Y">Flutter User Profile Demo</a>
